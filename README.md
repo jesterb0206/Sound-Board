@@ -15,11 +15,11 @@
 
 <br>
 
-![Sound Board]()
+![Sound Board](images/sound-board.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Sound-Board/)
 
 <br>
 
